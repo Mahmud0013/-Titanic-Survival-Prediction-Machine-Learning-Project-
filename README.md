@@ -53,7 +53,7 @@ The dataset is provided by Kaggle and includes three files:
 ---
 
 ## 📊 Results
-- Logistic Regression accuracy on Kaggle: **~77–79%**
+- Logistic Regression accuracy on Kaggle: **~76.5%**
 - Baseline (`gender_submission.csv`) accuracy: ~76%
 - Significant predictors:
   - **Sex (male)** → Strong negative effect
